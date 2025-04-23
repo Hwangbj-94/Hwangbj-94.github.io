@@ -1,7 +1,7 @@
 title: Beomju's Lab
 description: "My research, thoughts, and writings"
 baseurl: "" # 루트에 호스팅할 경우 공백
-url: "https://beomju-hwang.github.io" # 본인의 GitHub Pages URL
+url: "https://Hwangbj-94.github.io" # 본인의 GitHub Pages URL
 
 theme: null  # 이 줄 반드시 추가
 remote_theme: chrisrhymes/bulma-clean-theme
