@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Publications
+  link: /publications/
+- name: Conferences
+  link: /conferences/
+- name: Contact
+  link: /contact/
