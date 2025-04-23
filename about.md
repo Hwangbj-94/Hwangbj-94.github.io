@@ -3,6 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
+> **I am Interested in overcoming all diseases.**
+
+### I am currently enrolled as a doctoral student at Kyushu University.
+Master’s degree in engineering
+
+## 🌐 Languages
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">한국어 (Korean): Native/First</td>
+    <td style="border: none;">日本語 (Japanese): Native-level</td>
+    <td style="border: none;">English: Good</td>
+  </tr>
+</table>
 
 ## 🏢 Affiliations
 
@@ -31,16 +44,3 @@ permalink: /about/
     Advisors: Prof. Satoru Kidoaki, Assoc. Prof. Hirohiko Ise
 
 ---
-
-## 🌐 Languages
-
-- **Korean**: Native
-- **Japanese**: Native-level
-- **English**: Proficient
-
----
-
-## 🔗 Links
-
-- [ResearchGate](https://www.researchgate.net/)
-- [Twitter/X](https://twitter.com/)
