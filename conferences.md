@@ -54,4 +54,5 @@ permalink: /conferences/
 | 〇Song I, **<u>Hwang B</u>**, Hamano I, Ise H | TypeIII 中間径フィラメントを標的とした組織線維症に対する薬物送達システムの開発 | 第41回日本バイオマテリアル学会大会 | Nov. 2019 | Tsukuba, Ibaraki, Japan |
 | 〇Song I, **<u>Hwang B</u>**, Ise H | Type III中間径フィラメントを標的とした組織線維症に対する薬物送達システムの開発 | 第56回化学関連支部合同九州大会 | Jul. 2019 | Kitakyushu, Fukuoka, Japan |
 | 〇Ise H, **<u>Hwang B</u>** | Type3中間径フィラメントの細胞表面出現とN-アセチルグルコサミン結合活性の解明 | 第41回日本分子生物学年会 | Nov. 2018 | Yokohama, Kanagawa, Japan |
+
 ---
