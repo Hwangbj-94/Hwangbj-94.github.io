@@ -8,12 +8,14 @@ permalink: /conferences/
 ### 🎤 Oral Presentation
 
 👤 [First Author]
+
 | Author | Title | Conference | Date | Location |
 |--------|-------|------------|------|----------|
 | 〇**<u>Hwang B</u>**, Kato H, Morishita S, Matsuzaki F, Kubota H | シグナル伝達経路の臓器特異的な制御におけるAktアイソフォームの意義の定量的解明 | ムーンショット目標２「第3回 若手ワークショップ」 | Nov, 2024 | Nagoya, Aichi, Japan |
 
 
 👥 [Co-author]
+
 | Author | Title | Conference | Date | Location | Invited |
 |--------|-------|------------|------|----------|---------|
 | 〇Sekikawa T, **<u>Hwang B</u>**, Ishizaka M, Matsuya Y, Kawai H, Ono Y, Sato T, Kai T. | 放射線誘起正孔がもたらすDNAの分子構造と電子状態変化の第一原理計算II | 日本物理学会2024年春季大会 | Mar, 2024 | Online | No |
@@ -27,6 +29,7 @@ permalink: /conferences/
 ### 🧾 Poster Presentation
 
 👤 [First Author]
+
 | Author | Title | Conference | Date | Location | Abstract |
 |--------|-------|------------|------|----------|----------|
 | 〇**<u>Hwang B</u>**, Kato H, Morishita S, Matsuzaki F, Kubota H | シグナル伝達経路の臓器特異的な制御におけるAktアイソフォームの意義の定量的解明 | 定量生物学の会　九州キャラバン 2025 | Jan, 2025 | Fukuoka, Fukuoka, Japan |  |
@@ -38,6 +41,7 @@ permalink: /conferences/
 | 〇**<u>Hwang B</u>**, Ise H | ビメンチンの構造変化による細胞表面上の出現機構の解明 | 平成30年度日本生化学会九州支部大会 | Jun. 2018 | Fukuoka, Fukuoka, Japan |  |
 
 👥 [Co-author]
+
 | Author | Title | Conference | Date | Location |
 |--------|-------|------------|------|----------|
 | 〇Sekikawa T, Matsuya Y, Kawai H, **<u>Hwang B</u>**, Ishizaka M, Ono Y, Sato T, Kai T. | First-principles calculations of DNA irradiated with a proton and a carbon ion beam | Quantum Innovation 2023 | Nov. 2023 | Tokyo, Japan |
