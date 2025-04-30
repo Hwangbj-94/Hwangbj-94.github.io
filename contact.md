@@ -7,7 +7,11 @@ permalink: /contact/
 ### Email
 
 <aside>
-<img src="email.png" alt="email.png" width="40px" /> beomju.hwang+bioreg.kyushu-u.ac.jp
+<div style="display: flex; align-items: center;">
+  <img src="/assets/images/email.png" alt="Email icon" width="24px" style="margin-right: 0.5em;" />
+  <span>beomju.hwang+bioreg.kyushu-u.ac.jp</span>
+</div>
+
 
 *Please replace the '+' with '@' when sending emails
 
