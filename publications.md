@@ -19,3 +19,5 @@ permalink: /publications/
 2. ファン ボンジュ. (2020). 若手の会だより: 第 59 回生物物理若手の会夏の学校開催報告. *日生物物理 60*(1), 053-054. [https://doi.org/10.2142/biophys.60.053](https://doi.org/10.2142/biophys.60.053)
 
 1. ファン ボンジュ. (2019). 若手の会だより:~ 九州支部の初発足 若手の会が九州にも~. *日生物物理 59*(2), 113-114. [https://doi.org/10.2142/biophys.59.113](https://doi.org/10.2142/biophys.59.113)
+
+{% include top-button.html %}
