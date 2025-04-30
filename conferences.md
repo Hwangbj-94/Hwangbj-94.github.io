@@ -56,3 +56,5 @@ permalink: /conferences/
 | 〇Ise H, **<u>Hwang B</u>** | Type3中間径フィラメントの細胞表面出現とN-アセチルグルコサミン結合活性の解明 | 第41回日本分子生物学年会 | Nov. 2018 | Yokohama, Kanagawa, Japan |
 
 ---
+
+{% include top-button.html %}
