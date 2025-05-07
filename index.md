@@ -2,7 +2,7 @@
 layout: default
 title: "Welcome"
 ---
-{% include head.html %}
+{% include head-custom.html %}
 
 Welcome to my research homepage!
 
